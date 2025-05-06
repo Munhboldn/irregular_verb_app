@@ -1,6 +1,7 @@
+# 🔹 app.py
 import streamlit as st
 import random
-from logic.verb_data import verb_dict
+from verb_data import verb_dict
 
 # Mobile styling
 st.markdown("""
@@ -82,10 +83,3 @@ with tab3:
         st.session_state.quiz_history.append({"verb": quiz_verb, "past": past_input, "part": part_input})
 
     st.write(f"✅ Score: {st.session_state.quiz_score} | Mastered: {len(set(st.session_state.mastered_verbs))}")
-
-
-
-import json
-
-with open("data/verb_dict.json", "r") as f:
-    verb_dict = json.load(f)
