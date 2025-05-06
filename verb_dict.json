@@ -1,0 +1,62 @@
+{
+  "write": {
+    "past": "wrote",
+    "participle": "written"
+  },
+  "go": {
+    "past": "went",
+    "participle": "gone"
+  },
+  "be": {
+    "past": "was/were",
+    "participle": "been"
+  },
+  "eat": {
+    "past": "ate",
+    "participle": "eaten"
+  },
+  "come": {
+    "past": "came",
+    "participle": "come"
+  },
+  "run": {
+    "past": "ran",
+    "participle": "run"
+  },
+  "see": {
+    "past": "saw",
+    "participle": "seen"
+  },
+  "take": {
+    "past": "took",
+    "participle": "taken"
+  },
+  "speak": {
+    "past": "spoke",
+    "participle": "spoken"
+  },
+  "swim": {
+    "past": "swam",
+    "participle": "swum"
+  },
+  "drink": {
+    "past": "drank",
+    "participle": "drunk"
+  },
+  "drive": {
+    "past": "drove",
+    "participle": "driven"
+  },
+  "give": {
+    "past": "gave",
+    "participle": "given"
+  },
+  "begin": {
+    "past": "began",
+    "participle": "begun"
+  },
+  "break": {
+    "past": "broke",
+    "participle": "broken"
+  }
+}
